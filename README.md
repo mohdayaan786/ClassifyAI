@@ -1,5 +1,5 @@
-# DeepLensX
-DeepLensX is a Streamlit app that integrates MobileNetV2 and a CIFAR-10 model for image classification. Users can upload images and receive predictions with confidence scores from either model. It features a sleek navigation bar for easy switching and real-time results, which is ideal for learning and practical use.
+# ClassifyAI
+ClassifyAI is a Streamlit app that integrates MobileNetV2 and a CIFAR-10 model for image classification. Users can upload images and receive predictions with confidence scores from either model. It features a sleek navigation bar for easy switching and real-time results, which is ideal for learning and practical use.
 
 ## Key Features
 
@@ -27,7 +27,7 @@ DeepLensX is a Streamlit app that integrates MobileNetV2 and a CIFAR-10 model fo
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/JayRathod341997/DeepLensX.git
-   cd DeepLensX
+   cd ClassifyAI
 2. **Create and activate a virtual environment**:
     ```bash
     python -m venv venv
